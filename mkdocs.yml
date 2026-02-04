@@ -1,8 +1,20 @@
 site_name: My Docs
 
 repo_url: https://github.com/sibsutis/inf-and-piogi
-repo_name: GitHub
-edit_uri: edit/main/docs/
+repo_name: Docs course
+edit_uri: edit/master/docs/
+
+
+nav:
+  - Главная: piogi-2-sem/index.md
+  - Лекции:
+      - "Лекция 1: Git": piogi-2-sem/lections/lection-1.md
+  - Практика:
+      - "Лабораторная №1, часть 1": piogi-2-sem/main-pages/1-1-laba-brief.md
+      - "Лабораторная №1, часть 2": piogi-2-sem/main-pages/1-2-laba-brief.md
+  - Ссылки:
+      - GitHub: https://github.com/sibsutis/inf-and-piogi
+
 
 theme:
   name: material
