@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Дока по курсу
 
 repo_url: https://github.com/sibsutis/inf-and-piogi
 repo_name: Docs course
@@ -18,6 +18,8 @@ nav:
 
 theme:
   name: material
+  icon:
+    logo: material/library
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
