@@ -1,0 +1,1 @@
+[Вам сюда](piogi-2-sem/index.md)
