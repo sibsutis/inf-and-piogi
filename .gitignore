@@ -1,0 +1,10 @@
+.obsidian/
+.smtcmp_json_db/
+.stfolder/
+.trash/
+.smtcmp_vector_db.tar.gz
+*.pptx
+site/
+
+!.obsidian/plugins
+!.obsidian/themes

@@ -1,0 +1,32 @@
+---
+title: Дорожная карта курса
+doc-type:
+  - briefing
+doc-status:
+  - in_work
+tags:
+---
+## Введение
+Данный курс посвящен изучению основ программирования графических интерфейсов на стекле .net/wpf/c#.
+Цель курса - изучение основ ...
+
+## Список тем 
+В рамках данного курса вы ознакомитесь со следующим списком тем: 
+- ...
+
+## Реализуемое приложение
+Вам предложено разработать приложение для киоск терминала покупки билетов в кинотеатры. Разные кинозалы, разные типы мест, цены и динамическое API.
+
+### Экраны приложения
+
+
+
+MoviesPage → SessionsPage → HallPage → TicketPage
+Выбор фильма → Выбор сеанса → Выбор мест → Билет
+
+
+![Ппп](docs/piogi-2-sem/Excalidraw/movie-list-screen.excalidraw.excalidraw.md)
+
+![Ggg](docs/piogi-2-sem/Excalidraw/time-pick-screen.excalidraw.md)
+
+![Ss](docs/piogi-2-sem/Excalidraw/seats-pick-screen.excalidraw.md)
